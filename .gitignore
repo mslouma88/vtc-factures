@@ -1,0 +1,24 @@
+# Ignorer les fichiers de configuration de l'environnement virtuel
+.env/
+venv/
+env/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les fichiers de configuration de l'IDE
+.vscode/
+
+# Ignorer les fichiers de logs et de données
+*.db
+
+# Ignorer les fichiers de configuration sensible
+config.py
+
+# Ignore autres fichiers & dossiers
+autres/
+app1.py
+factures/
+data/
